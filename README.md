@@ -1,2 +1,1 @@
-# hello-druid
-Hello, Apache Druid
+# Hello, Apache Druid
